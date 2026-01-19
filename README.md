@@ -69,27 +69,27 @@
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=TrippiieeM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=muchirimorris&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br/><br/>
 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TrippiieeM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=muchirimorris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrippiieeM&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirimorris&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrippiieeM&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muchirimorris&theme=tokyonight" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TrippiieeM&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muchirimorris&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
