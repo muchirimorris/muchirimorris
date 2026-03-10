@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <b>Business Information Technology Student</b> at <a href="https://www.dkut.ac.ke/">Dedan Kimathi University of Technology</a>
+    <b>Business Information Technology Graduate</b> at <a href="https://www.dkut.ac.ke/">Dedan Kimathi University of Technology</a>
   </p>
   
   <p>
