@@ -86,17 +86,28 @@ I am a developer focused on bridging the gap between agriculture and technology.
 
 <div align="center">
   <a href="https://github.com/muchirimorris">
-    <img src="https://github-readme-stats.vercel.app/api?username=muchirimorris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muchirimorris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/muchirimorris">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirimorris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirimorris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
   </a>
 </div>
+
 <br />
+
 <div align="center">
   <a href="https://github.com/muchirimorris">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muchirimorris&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muchirimorris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <p><i>Always open to collaborating on high-impact projects or analyzing new tech stacks.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=muchirimorris&label=Profile%20Views&color=3ECF8E&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br />
