@@ -86,10 +86,10 @@ I am a developer focused on bridging the gap between agriculture and technology.
 
 <div align="center">
   <a href="https://github.com/muchirimorris">
-    <img src="https://github-readme-stats.vercel.app/api?username=muchirimorris&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muchirimorris&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/muchirimorris">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirimorris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirimorris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=2" height="165" alt="Top Languages" />
   </a>
 </div>
 
@@ -97,7 +97,7 @@ I am a developer focused on bridging the gap between agriculture and technology.
 
 <div align="center">
   <a href="https://github.com/muchirimorris">
-    <img src="https://streak-stats.demolab.com/?user=muchirimorris&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=muchirimorris&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
   </a>
 </div>
 
